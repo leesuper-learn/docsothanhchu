@@ -1,0 +1,7 @@
+E:\C#\online\W02\caudieukien\baitap\docsothanhchu\docsothanhchu\bin\Debug\docsothanhchu.exe.config
+E:\C#\online\W02\caudieukien\baitap\docsothanhchu\docsothanhchu\bin\Debug\docsothanhchu.exe
+E:\C#\online\W02\caudieukien\baitap\docsothanhchu\docsothanhchu\bin\Debug\docsothanhchu.pdb
+E:\C#\online\W02\caudieukien\baitap\docsothanhchu\docsothanhchu\obj\Debug\docsothanhchu.csproj.AssemblyReference.cache
+E:\C#\online\W02\caudieukien\baitap\docsothanhchu\docsothanhchu\obj\Debug\docsothanhchu.csproj.CoreCompileInputs.cache
+E:\C#\online\W02\caudieukien\baitap\docsothanhchu\docsothanhchu\obj\Debug\docsothanhchu.exe
+E:\C#\online\W02\caudieukien\baitap\docsothanhchu\docsothanhchu\obj\Debug\docsothanhchu.pdb
